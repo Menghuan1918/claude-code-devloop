@@ -1,0 +1,25 @@
+{
+  "name": "devloop-toolkit",
+  "owner": {
+    "name": "Menghuan1918"
+  },
+  "metadata": {
+    "description": "开发工具包市场 - 包含智能开发任务调度器、代码园丁、Git 工具等实用开发命令",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "dev-toolkit",
+      "source": "./dev-toolkit",
+      "description": "开发工具包插件 - 包含智能开发任务调度器(Claude+Codex/Claude版本)、代码园丁(处理代码腐化)、Git 工具",
+      "version": "1.0.0",
+      "author": {
+        "name": "Menghuan1918"
+      },
+      "category": "productivity",
+      "keywords": ["开发工具", "git", "代码质量", "自动化"],
+      "homepage": "https://github.com/Menghuan1918/claude-code-devloop",
+      "repository": "https://github.com/Menghuan1918/claude-code-devloop"
+    }
+  ]
+}

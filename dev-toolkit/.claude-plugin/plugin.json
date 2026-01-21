@@ -1,8 +1,13 @@
 {
-  "name": "dev",
+  "name": "dev-toolkit",
   "description": "开发工具包插件 - 包含智能开发任务调度器(Claude+Codex/Claude版本)、代码园丁(处理代码腐化)、Git 工具",
   "version": "1.0.0",
   "author": {
     "name": "Menghuan1918"
-  }
+  },
+  "homepage": "https://github.com/Menghuan1918/claude-code-devloop",
+  "repository": "https://github.com/Menghuan1918/claude-code-devloop",
+  "license": "MIT",
+  "keywords": ["开发工具", "git", "代码质量", "自动化", "生产力"],
+  "category": "productivity"
 }
