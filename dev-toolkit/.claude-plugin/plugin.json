@@ -1,0 +1,8 @@
+{
+  "name": "dev",
+  "description": "开发工具包插件 - 包含智能开发任务调度器(Claude+Codex/Claude版本)、代码园丁(处理代码腐化)、Git 工具",
+  "version": "1.0.0",
+  "author": {
+    "name": "Menghuan1918"
+  }
+}
